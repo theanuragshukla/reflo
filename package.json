@@ -11,8 +11,6 @@
     "express",
     "redis",
     "middleware",
-    "backoff",
-    "token-bucket",
     "reflo"
   ],
   "repository": {
