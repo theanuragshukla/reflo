@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/theanuragshukla/reflo/compare/v1.0.2...v1.0.3) (2025-07-06)
+
+
+### Bug Fixes
+
+* update gh token in workflow ([ead48c6](https://github.com/theanuragshukla/reflo/commit/ead48c650b673c6e3bb70cd78ccc36f091fb7a56))
+
 ## [1.0.2](https://github.com/theanuragshukla/reflo/compare/v1.0.1...v1.0.2) (2025-07-06)
 
 
