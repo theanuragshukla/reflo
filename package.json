@@ -1,6 +1,6 @@
 {
   "name": "reflo",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A modular, Redis-backed rate limiting middleware for Express with pluggable strategies and exponential backoff.",
   "main": "dist/index.cjs",
   "module": "dist/index.mjs",

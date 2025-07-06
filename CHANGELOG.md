@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/theanuragshukla/reflo/compare/v1.0.3...v1.0.4) (2025-07-06)
+
+
+### Bug Fixes
+
+* update README ([056b094](https://github.com/theanuragshukla/reflo/commit/056b094f35326b3bf9b906357948f4c7ede3f6df))
+
 ## [1.0.3](https://github.com/theanuragshukla/reflo/compare/v1.0.2...v1.0.3) (2025-07-06)
 
 
