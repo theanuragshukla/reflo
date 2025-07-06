@@ -8,10 +8,9 @@
   "type": "module",
   "keywords": [
     "rate-limiter",
-    "express",
-    "redis",
     "middleware",
-    "reflo"
+    "reflo",
+    "throttler"
   ],
   "repository": {
     "type": "git",
